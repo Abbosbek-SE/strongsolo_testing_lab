@@ -1,0 +1,2 @@
+http://localhost:3000/board
+http://localhost:3000/load/LOAD-2025-001
